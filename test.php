@@ -1,2 +1,2 @@
 <?php 
-echo 'first create';
+echo 'first create zhihu';
